@@ -19,6 +19,8 @@
 - 최하린 (hilini)
 - 홍은서 (eunseogachaego)
 
+https://dacon.io/competitions/official/235946/overview/description
+
 ## 일정
 |Index|스터디 일정|스터디 내용|포스팅 일정|  
 |:-----:|----|-------|-------|
